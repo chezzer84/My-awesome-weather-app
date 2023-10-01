@@ -87,7 +87,17 @@ h3 {
   font-style: normal;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
+  margin-bottom: 30px;
 }
+
+.click-here {
+  color: rgb(64, 18, 214);
+  font-family: lora;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
 button {
   background-color: rgb(64, 18, 214);
   color: white;
